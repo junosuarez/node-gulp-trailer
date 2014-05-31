@@ -1,7 +1,7 @@
 {
   "name": "gulp-trailer",
   "author": "jden <jason@denizac.org>",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "add a file to a source stream after all others are done",
   "keywords": [
     "gulp",
